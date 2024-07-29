@@ -1,4 +1,8 @@
 # Zero-Trust-Architecture-with-AI-Driven-Threat-Detection-and-Decentralized-Identity-Management
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to enhance security by implementing a Zero Trust security model, AI-driven threat detection, and decentralized identity management. The solution ensures continuous verification, minimal access, real-time threat detection, and secure user authentication.
 
 
